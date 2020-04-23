@@ -1,0 +1,7 @@
+codebook.pdf (application/pdf) 159894 bytes.
+ggplot.dta (application/x-stata-13) 37045 bytes.
+readme.txt (text/plain) 2774 bytes.
+series_graph.R (type/x-r-syntax) 1745 bytes.
+transparency.dta (application/x-stata-13) 135079 bytes.
+transparency_allvars.dta (application/x-stata-13) 434104 bytes.
+transparency_welfare.do (application/x-stata-syntax) 15194 bytes.
